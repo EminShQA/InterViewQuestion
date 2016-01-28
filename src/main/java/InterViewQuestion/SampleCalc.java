@@ -42,7 +42,7 @@ public class SampleCalc {
 	//	double d2 = Double.parseDouble(b);
 	//	double result = d1 + d2;
 	//	return result;
-	}
+	
 
 	private static String getInput(String prompt) {
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
